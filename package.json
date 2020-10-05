@@ -1,0 +1,15 @@
+{
+  "name": "graylogtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "winston": "^3.3.3",
+    "winston-graylog2": "^2.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
